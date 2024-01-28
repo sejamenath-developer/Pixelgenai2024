@@ -3,7 +3,7 @@
 @layer utilities {
     ::selection {
       color: #356FFF;
-      background: #B9CAFF;
+      background:black;
     }
 }
 
